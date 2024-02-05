@@ -47,14 +47,15 @@ en fases más tempranas del desarrollo del software y no, por ejemplo, en tiempo
 software ya se encuentra en producción.
 
 Utilice como punto de partida para estudiar TypeScript (TS) el material del trabajo
-[Introduction to TypeScript](https://github.com/alu0101329888/Introduction-to-TypeScript)
+[Introduction to
+TypeScript](https://github.com/ULL-ESIT-PAI-2023-2024/2023-2024-pai-introduction-to-ts-introduction-to-ts.git)
 expuesto en las clases de la asignatura.
 A continuación estudie las secciones 1 (*Getting Started*), 2 (*Basic Types*) y 4 (*Functions*) del
 [TypeScript Tutorial](https://www.typescripttutorial.net/)
 No deje de revisar la sección 3 (*Control Flow Statements*) del tutorial, aunque la sintaxis y semántica de las 
 sentencias de control en TS son las mismas que ya conoce de JS.
 En el aula virtual de PAI encontrará también las transparencias
-[TypeScript Functions](https://campusingenieriaytecnologia2223.ull.es/mod/url/view.php?id=27312)
+[TypeScript Functions](https://campusingenieriaytecnologia2324.ull.es/mod/url/view.php?id=5202)
 que debe estudiar.
 En el material anterior no es necesario que estudie, por ahora, nada relativo a programación orientda a objetos en
 la implementación que TS realiza de este paradigma.
