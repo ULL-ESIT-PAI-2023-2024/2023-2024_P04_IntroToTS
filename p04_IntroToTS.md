@@ -57,7 +57,7 @@ sentencias de control en TS son las mismas que ya conoce de JS.
 En el aula virtual de PAI encontrará también las transparencias
 [TypeScript Functions](https://campusingenieriaytecnologia2324.ull.es/mod/url/view.php?id=5202)
 que debe estudiar.
-En el material anterior no es necesario que estudie, por ahora, nada relativo a programación orientda a objetos en
+En el material anterior no es necesario que estudie, por ahora, nada relativo a programación orientada a objetos en
 la implementación que TS realiza de este paradigma.
 
 El siguiente paso en esta práctica será que desarrolle Ud. en TypeScript todos los programas que haya realizado
