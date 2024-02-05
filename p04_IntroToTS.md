@@ -40,13 +40,13 @@ partiendo de JS, tomándolo como base y añadiéndole nuevas características y 
 lo que permite desarrollar código de un modo más sencillo, limpio y libre de errores.
 
 TypeScript no es solo un lenguaje de programación, sino un traductor que permite generar código fuente 
-en JavaScript a partir de código fuente escrito en TS. 
+en JS a partir de código fuente escrito en TS. 
 Como su nombre indica, TS permite utilizar tipos de datos estáticos. 
 lo cual es muy relevante, puesto que los tipos de datos estáticos permiten detectar errores en el código 
 en fases más tempranas del desarrollo del software y no, por ejemplo, en tiempo de ejecución, cuando el 
 software ya se encuentra en producción.
 
-Utilice como punto de partida para estudiar TypeScript (TS) el material del trabajo
+Utilice como punto de partida para estudiar TypeScript el material del trabajo
 [Introduction to
 TypeScript](https://github.com/ULL-ESIT-PAI-2023-2024/2023-2024-pai-introduction-to-ts-introduction-to-ts.git)
 expuesto en las clases de la asignatura.
@@ -65,7 +65,7 @@ hasta ahora en JavaScript.
 Para la ejecución de esos programas practique tanto a utilizar el compilador de TS (`tsc`)  como
 `ts-node`, el motor de ejecución de TS para Node.js.
 El el directorio principal de esta práctica hallará sendos ficheros
-`tsconfig.json` y `package.json` para trabajar con TypeScript.
+`tsconfig.json` y `package.json` para trabajar con TS.
 Examine el contenido de esos ficheros y cree un subdirectorio dentro de `src` para cada uno de los programas
 que desarrolle en esta práctica.
 Consulte la
@@ -85,16 +85,16 @@ una vez que haya realizdo algunos de los ejercicios catalogados como fáciles (*
 algunos de los de dificultad media o alta.
 Tenga en cuenta que por ahora no se le requerirá trabajar con ejercicios que conlleven programación orientada a objetos.
 
-Todos los ejercicios que realice en TypeScript han de seguir los criterios de formato, estilo y documentación que
+Todos los ejercicios que realice en TS han de seguir los criterios de formato, estilo y documentación que
 se han venido estudiando hasta ahora.
 Para el caso de TS recuerde que existe una guía de estilo específica,
 [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
-que para algunos aspectos específicos complementa a la guía de estilo para JS.
+que para algunos aspectos concretos complementa a la guía de estilo para JS.
 
 En cuanto a documentación de código se seguirán utilizando los mismos criterios y etiquetas de JSDoc que ya
 se han estudiado.
 
-Recuerde que Exercism también utiliza Jest como plataforma de testing para los ejercicios de TypeScript.
+Recuerde que Exercism también utiliza Jest como plataforma de testing para los ejercicios de TS.
 Para cada problema, preste atención a los tests que su código ha de superar y la implementación de los mismos.
 
 ### Unit Testing con Jest
